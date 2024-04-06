@@ -1,6 +1,8 @@
 # Welcome to My User Page
 
-![Software Engineer](https://avatars.githubusercontent.com/u/107660997?v=4)))
+![Software Engineer](https://avatars.githubusercontent.com/u/107660997?v=4)
+
+[Future Me](https://github.com/samhormozian1/CSE110GithubPagesProject/blob/main/shutterstock_2079730714.jpg)
 
 Hello! I'm Sam Hormozian, a developer with a passion for coding and solving problems.
 
