@@ -37,6 +37,7 @@ I play video games and am active in my free time.
 
 Here's a simple function in Python:
 
-```python
+```
 def greet(name):
     return f"Hello, {name}!"
+```
