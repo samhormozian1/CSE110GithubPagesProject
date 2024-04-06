@@ -1,8 +1,8 @@
 # Welcome to My User Page
 
-![Software Engineer](https://www.dice.com/binaries/medium/content/gallery/dice/insights/2022/09/shutterstock_2079730714.jpg))
+![Software Engineer](https://avatars.githubusercontent.com/u/107660997?v=4)))
 
-
+https://www.dice.com/binaries/medium/content/gallery/dice/insights/2022/09/shutterstock_2079730714.jpg
 Hello! I'm Sam Hormozian, a developer with a passion for coding and solving problems.
 
 ## About Me
